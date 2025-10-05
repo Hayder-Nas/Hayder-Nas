@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Hayder, and i'm a sofware QA tester !
+My name is Hayder, and i'm a sofware QA Engineer !
 
 ## 📲 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haydir-nayyer-335778179/) 
